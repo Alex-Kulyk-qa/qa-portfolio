@@ -6,15 +6,15 @@ Portfolio of Oleksandr Kulyk, manual QA engineer.
 
 
 
-\## Contents
+## Contents
 
 
 
-\- Test cases
+- Test cases
 
-\- Checklists
+- Checklists
 
-\- Bug reports
+- Bug reports
 
-\- Postman collections
+- Postman collections
 
